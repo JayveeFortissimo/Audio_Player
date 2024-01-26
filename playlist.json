@@ -1,0 +1,41 @@
+{ "playlist": [
+ 
+    {
+       "id":1,
+       "img":"Yoasobi.mp3",
+       "image":"Yoasobi.jpg",
+       "title":"Crush"
+    },
+    {
+       "id":2,
+       "img":"Startear.mp3",
+       "image":"Sword.jpg",
+       "title":"Sword"
+    },
+    {
+       "id":3,
+       "img":"Sainaei.mp3",
+       "image":"Saenai.jpg",
+       "title":"Saenai"
+    },
+    {
+       "id":4,
+       "img":"Naruto.mp3",
+       "image":"Naruto.jpg",
+       "title":"Naruto"
+    },
+    {
+       "id":5,
+       "img":"jv.mp3",
+       "image":"Honeys.jpg",
+       "title":"Honey"
+    },
+    {
+       "id":6,
+       "img":"Jazpan.mp3",
+       "image":"Megumi.jpg",
+       "title":"Saenai"
+    }
+ 
+ ]
+}
